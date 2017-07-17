@@ -5,7 +5,7 @@
 <table>
 <tr>
 	<td>Kode Sewa</td>
-	<td><input type="text" name="kodesew" size="7"/></td>
+	<td><input type="text" name="kdsewa" size="7"/></td>
 </tr>
 <tr>
 	<td>Kode Buku</td>
